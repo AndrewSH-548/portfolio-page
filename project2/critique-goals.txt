@@ -1,1 +1,0 @@
-In terms of functionality, I am aware that ambiguity will exist between most members of the same evolutionary line. A differentiation will be implemented in the final version, as it requires another JSON file to be processed with a different link. Thus, my request is for ideas on how I should design the website using CSS, and/or what the extra hint should be.
