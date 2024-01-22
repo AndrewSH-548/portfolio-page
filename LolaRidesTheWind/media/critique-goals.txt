@@ -1,0 +1,3 @@
+My goal for this prototype was to lay out the groundwork for all the functionality, and work on visuals later.
+While playing, try to interact with the platforms you see, and notify me of any issues regarding their collision.
+Also, suggestions for any easy-to-implement obstacles are appreciated.

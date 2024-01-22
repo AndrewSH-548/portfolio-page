@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+    display: grid;
+    grid-template-areas: "art game inputs";
+    grid-template-columns: auto 1000px auto;
+    max-width: 100%;
+}
+
+#art{
+    grid-area: art;
+}
+
+#game{
+    grid-area: game;
+}
+
+aside{
+    grid-area: inputs;
+}
+
+#art, aside{
+    padding: 27vh 0;
+}
+
+#art img, aside img{
+    max-height: 210px;
+}

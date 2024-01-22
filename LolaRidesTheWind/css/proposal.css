@@ -1,0 +1,29 @@
+﻿body{
+    margin: 2rem;
+    background-color: cyan;
+    font-family: 'Sitka Text';
+}
+
+#content {
+    background-color: #E0FFF3;
+    padding: 1rem;
+}
+
+#title img{
+    float: right;
+    max-height: 220px;
+}
+
+h1 {
+    font-size: 60pt;
+    font-style: italic;
+    color: darkgoldenrod;
+}
+
+h1, h2, h3 {
+    font-family: 'Ink Free';
+}
+
+#mockup img {
+    max-width: 36%;
+}
