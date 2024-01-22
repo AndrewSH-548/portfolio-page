@@ -1,0 +1,20 @@
+#layout img {
+    max-width: 700px;
+}
+
+@font-face {
+    font-family: PokemonRS;
+    src: url(../media/pokemon-rs.ttf);
+}
+
+#rs {
+    font-family: PokemonRS;
+}
+
+#solid {
+    font-family: 'Pokemon Solid', sans-serif;
+}
+
+#images img {
+    max-width: 400px;
+}

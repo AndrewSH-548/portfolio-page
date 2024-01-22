@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+}
+
+header {
+    width: 100%;
+    border-bottom: 10px solid black;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 5rem;
+}
+
+main {
+    margin: 3rem auto;
+}
+
+#firstHint {
+    font-size: 25pt;
+}
+
+button {
+    width: 400px;
+    height: 80px;
+    font-size: 30pt;
+    margin: 3rem;
+}
+
+input {
+    width: 600px;
+    height: 60px;
+    font-size: 30pt;
+    padding: 0 10px;
+    align-self: center;
+}
+
+#correctAnswer img {
+    width: 288px;
+}
+
+footer {
+    width: 100%;
+    border-top: 10px solid black;
+    text-align: right;
+    font-size: 2em;
+}
