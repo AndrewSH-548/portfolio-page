@@ -1,7 +1,6 @@
 # portfolio-page
 A compilation of all the highest-effort programs I've created.
 
-
 ## No Signal
 
 - Completed in collaboration with 4 other students. Made using C#'s MonoGame.
@@ -22,3 +21,10 @@ A compilation of all the highest-effort programs I've created.
 - 2D room-based platformer, featuring a slow-falling ability. Made using JavaScript's PixiJS.
 - Rooms are classes with lists of the objects they contain, such as terrain, hazards and items.
 - Features to ease experience such as informative signs and control options.
+
+## Bowser's Minion Dress-Up
+
+- Server-based React web application. Stores user information and preserves login data.
+- Users can customize a a character with several preset accessories. These are stored as a list and sent to a MongoDB server.
+- Minions are displayed in a canvas-based viewer page with CRUD functionality available.
+- Settings page allows users to change their password.
