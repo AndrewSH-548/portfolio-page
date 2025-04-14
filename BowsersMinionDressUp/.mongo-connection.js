@@ -1,0 +1,1 @@
+module.exports = 'mongodb+srv://ash7811:85SgaZ3czcuc^8u@cluster0.3pkj9.mongodb.net/BowsersMinionDress-Up?retryWrites=true&w=majority';
